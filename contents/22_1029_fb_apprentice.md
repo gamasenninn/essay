@@ -73,4 +73,27 @@ Googleストアにデプロイしたゲームアプリと
 そして間違いなくSNSでの発信は不可欠である  
 本人が思う以上にSNSは強力な繋がりを生んでくれる  
   
+追記  
+ちなみに転職時の弟子の保有スキルは以下のとおり  
+
+- 開発言語  
+  - C#  
+  - python  
+  - php  
+  - Javascript/Typescript  
+  - HTML/CSS  
+- バックエンド  
+  - Laravel  
+  - Flask  
+  - node.js
+  - SQLAlchemy  
+- フロントエンド  
+  - Vue  
+  - React
+  - Next.js
+- CI/CD
+  - Github action
+  - unittest
+  - cypress  
+  
 
