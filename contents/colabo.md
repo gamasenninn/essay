@@ -41,10 +41,12 @@ Google Colaboは
 というわけでえ
 このツールもまた、chatGPTとの相性が抜群であるわけだが
 使い方わからないという人のために
-使えるまでの過程を書いておいた
+使えるまでの手順を書いておいた
 
 次のURLを參考にしてくれ
 
+#chatGPT #GPT4 #Colabo 
 
+https://nova-join-5c4.notion.site/Google-Colabo-19eb238c4e18413aba799d1cfb82a626
 
 
